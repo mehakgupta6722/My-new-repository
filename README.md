@@ -1,2 +1,2 @@
 
-This repository has answers to SQL projects questions
+This repository holds codes and queries of all SQL projects I have been working on
